@@ -36,7 +36,7 @@ Go to the project directory
 Run dependencies
 
 ```bash
-  python main.py
+  ./main
 ```
 
 ## Screenshots
